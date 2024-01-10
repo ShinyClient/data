@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/subsc/Documents/GitHub/data/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Hypixel SkyBlock",
+    "description": "Minecraft 1.8.9 (Forge v11.15.1.2318)",
+    "icon": "https://www.kindpng.com/picc/b/650-6507543_fallen-tree-png.png",
+    "address": "mc.hypixel.net",
+    "discord": {
+      "shortId": "skyblock",
+      "largeImageText": "Hypixel Skyblock",
+      "largeImageKey": "skyblok"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "11.15.1.2318"
+  },
+  "untrackedFiles": []
+}
